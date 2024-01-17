@@ -93,7 +93,7 @@ func claimRewards(c *gin.Context) {
 }
 
 func calculateClaimableRewards(poolSnapshot int, userSnapshot int, userShares int) int {
-	// TODO: Replace this with your actual claimable rewards calculation logic
+	// TODO 4: Replace this with your actual claimable rewards calculation logic
 	return 0
 }
 
